@@ -1,2 +1,0 @@
-# JustAnotherGtagCloneMOTD
-JustAnotherGtagClone
